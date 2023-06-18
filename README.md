@@ -1,4 +1,4 @@
-# CoSupply_DataWarehouse
+# CoSupply_DataWarehouse: A group project created collaboratively with other members
 ### About
 The DataCo Smart Supply Chain for Big Data Analysis dataset on Kaggle is a collection of data on smart supply chains, including information on orders, products, customers and related shipping activities. This dataset provides me with an overview of the operations of businesses in this field and can be used to analyze and optimize business processes related to the supply chain. In my report, I can use this dataset to explore trends and relationships between different factors in the supply chain, thereby providing recommendations and solutions to improve efficiency and reduce costs for business activities.
 ### Objectives
